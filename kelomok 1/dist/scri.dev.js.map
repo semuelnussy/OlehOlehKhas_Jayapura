@@ -1,0 +1,1 @@
+{"version":3,"sources":["scri.js"],"names":["addToCart","item","alert"],"mappings":";;AAAA,SAASA,SAAT,CAAmBC,IAAnB,EAAyB;AACrBC,EAAAA,KAAK,CAACD,IAAI,GAAG,kCAAR,CAAL;AACH","sourcesContent":["function addToCart(item) {\r\n    alert(item + \" telah ditambahkan ke keranjang!\");\r\n}"],"file":"scri.dev.js"}
